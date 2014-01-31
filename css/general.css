@@ -10,13 +10,12 @@ body {
 h1 {
     font-family: Futura, "Futura", serif; 
     font-weight: lighter;
-    font-size: 2.5rem;
-    
+    font-size: 1.5rem;
+    text-shadow: #f9f9f9 2px 2px; /* colour + x + y */
 }
 
 h2 {
     color: #000;
-    
 }
 
 p,
